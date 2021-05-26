@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="anthos-testing-271707"
